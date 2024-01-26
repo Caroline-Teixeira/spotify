@@ -1,4 +1,20 @@
 # Spotify
+Cópia do site Spotify. Projeto desenvolvido durante a #ImersãoFrontEnd promovido pela escola #Alura entre os dias 22 a 26 de janeiro. <br>
+Status: em andamento
+
+<h4>Linguagens:</h4>
+<p align="left">
+<!--HTML--><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </a> 
+<!--CSS--><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </a> 
+<!--JavaScript--><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a><br>
+ </p>
+
+<h4>Framework: Angular</h4>
+<p align="left">
+<!--angular--><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> </a>
+ 
+![image](https://github.com/Caroline-Teixeira/alura_spotify/assets/131414771/bf3afc5e-b512-4882-aab8-2a270671c442)
+![image](https://github.com/Caroline-Teixeira/alura_spotify/assets/131414771/43a86a4d-764a-4d53-bd7a-60e9a8f8b315)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
 
