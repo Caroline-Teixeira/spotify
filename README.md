@@ -13,8 +13,8 @@ Status: em andamento
 <p align="left">
 <!--angular--><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> </a>
  
-![image](https://github.com/Caroline-Teixeira/alura_spotify/assets/131414771/bf3afc5e-b512-4882-aab8-2a270671c442)
-![image](https://github.com/Caroline-Teixeira/alura_spotify/assets/131414771/43a86a4d-764a-4d53-bd7a-60e9a8f8b315)
+![image](https://github.com/Caroline-Teixeira/spotify/assets/131414771/001d6a30-a580-44b4-87cd-3ea45223fe22)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
 
