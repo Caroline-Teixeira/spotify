@@ -1,0 +1,44 @@
+/*rodape*/
+.disclaimer-premium {
+    background: linear-gradient(to right, #ae2896, #509bf5);
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding: 15px 40px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.disclaimer-premium .text {
+    flex-shrink: 0;
+}
+
+.disclaimer-premium .disclaimer-premiumtitle {
+    color: var(--bg-word);
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.disclaimer-premium .disclaimer-premiumsubtitle {
+    color: var(--bg-word);
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.disclaimer-premium button {
+    background-color: var(--bg-word);
+    border-radius: 40px;
+    border: 0px;
+    color: var(--bg-backgroud);
+    cursor: pointer;
+    flex-shrink: 0;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 14px 30px;
+}
+
+
